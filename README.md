@@ -21,3 +21,9 @@ The PATH to test it is :
 http://localhost:8080/upload
 ```
 The API need one File parameter.
+There is a test file inside the repo below :
+```
+/src/main/resources/test.xml
+```
+
+[Postman](images/postman.png)
