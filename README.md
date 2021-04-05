@@ -26,4 +26,4 @@ There is a test file inside the repo below :
 /src/main/resources/test.xml
 ```
 
-[Postman](images/postman.png)
+[Postman-configuration](images/postman.png)
