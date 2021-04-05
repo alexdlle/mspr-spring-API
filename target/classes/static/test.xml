@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<datas>
+
+<data>
+	<uniqueID>42</uniqueID>
+	<name>Nom parc</name>
+	<value>Parc de la beurette</value>
+</data>
+
+<data>
+	<uniqueID>8000</uniqueID>
+	<name>Événement</name>
+	<value>Festival de la charcuterie</value>
+</data>
+<!-- ... etc ... -->
+</datas>

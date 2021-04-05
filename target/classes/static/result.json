@@ -1,0 +1,12 @@
+[
+    {
+        "id": 42,
+        "name": "Nom parc",
+        "value": "Parc de la beurette"
+    },
+    {
+        "id": 8000,
+        "name": "Événement",
+        "value": "Festival de la charcuterie"
+    }
+]
